@@ -28,14 +28,6 @@ let btgithub = window.document.getElementById("bt-a-gthub")
 let botgithub = window.document.getElementById("github")
 //GiTHUB
 
-let inputzd =window.document.getElementById("zeroadez")
-
-function dezzero(){
-  if(0 < 10){
-    console.log("sua nota")
-  }
-}
-
 function hubgit(){
  
   botgithub.style.background = "none"
